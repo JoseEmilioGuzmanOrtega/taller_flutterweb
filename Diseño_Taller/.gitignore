@@ -1,0 +1,18 @@
+# Ignorar archivos de compilación y binarios
+*.class
+*.exe
+*.dll
+
+# Ignorar configuraciones locales y carpetas específicas
+*.log
+*.tmp
+*.out
+*.bak
+.idea/
+.vscode/
+build/
+dist/
+
+# Ignorar carpetas de dependencias (si aplica)
+node_modules/
+.gradle/
